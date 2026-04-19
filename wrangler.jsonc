@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "dreamroom",
+  "compatibility_date": "2026-04-19",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "did 2"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
